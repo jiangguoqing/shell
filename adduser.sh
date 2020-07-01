@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#add comments
 pwfile="/etc/passwd"
 shadowfile="/etc/shadow"
 
